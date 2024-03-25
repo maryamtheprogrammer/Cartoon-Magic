@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+}
+
+#navbar{
+    background-color: orange;
+}
+
+#navbar a{
+    color: #fff;
+    font-size: 19px;
+    text-decoration: none;
+}
+
+.main-page h2{
+    color: red;
+}
+
+.main-page p{
+    color: #fff;
+    font-size: 20px;
+}
+
+.sec2 , .pop-table
+ table{
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+}
+
+.pop-head{
+    color: red;
+    text-align: center;
+}
+
+.time-head{
+    color: red;
+    text-align: center;
+}
+
+#time-schedule{
+    color: #fff;
+    text-align: center;
+    align-items: center;
+}
+
+#main-heading{
+    color: red;
+    text-align: center;
+}
+
+#form {
+    color: black;
+    padding: 20px; 
+    background-color: yellow;
+    border: 2px solid black; 
+    border-radius: 10px; 
+    width: 60%; 
+    margin: 0 auto; 
+}
+
+#message {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
